@@ -1,1 +1,1 @@
-# Project-1
+In a Simple Linear Regression project, I examine and clean the dataset, visualize relationships with scatter plots, split the data into training and testing sets, build the model using scikit-learn, and evaluate its performance using metrics like Mean Squared Error (MSE) and R-squared.
